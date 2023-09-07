@@ -44,7 +44,8 @@ chmod +x spidey.sh
 ```
 ./spidey.sh
 ```
-
+## :pushpin: Screenshot
+![Alt text](spidey.png?raw=true "Optional Title")
   
 <h2>💻 Built with</h2>
 
